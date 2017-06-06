@@ -12,13 +12,13 @@ Previous Meetings
 **6/6 2pm-4pm (Facilitated by Nick):**
 
 - Anaconda, Jupyter, TensorFlow set up
-- TensorFlow tutorial
-    - [Tensorflow MNIST tutorial](https://www.tensorflow.org/get_started/mnist/pros)
+- TensorFlow tutorial logistic regression
 
-Homework for 6/20:
+For 6/20:
 
-- Run through complete MNIST tutorial
-- Go through Convolutional Neural nets tutorial
+- Run through complete [Tensorflow MNIST tutorial](https://www.tensorflow.org/get_started/mnist/pros)
+- Go through [Convolutional Neural Nets](https://www.tensorflow.org/tutorials/deep_cnn)
+- Glance over [Deep Feedforward Networks](http://www.deeplearningbook.org/contents/mlp.html)
 
 Next Meetings
 ---

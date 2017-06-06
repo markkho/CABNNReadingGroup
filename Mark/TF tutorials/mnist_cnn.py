@@ -18,7 +18,7 @@ def max_pool_2x2(x):
 
 if __name__ == "__main__":
     sess = tf.InteractiveSession()
-    mnist = input_data.read_data_sets('MNIST_data', one_hot=True)
+    mnist = input_data.read_data_sets('../../data/MNIST_data/', one_hot=True)
 
     x = tf.placeholder(tf.float32, [None, 784])
     y_ = tf.placeholder(tf.float32, [None, 10])
