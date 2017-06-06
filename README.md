@@ -16,11 +16,17 @@ Tentative Next Meeting Dates
 ---
 **RLDM (6/10-6/14)**
 
-**6/20 1pm-3pm**
+**6/20 1pm-3pm (Dan)**
 
-**6/27 1pm-3pm**
+- [Convolutional Neural Nets](https://www.tensorflow.org/tutorials/deep_cnn)
 
-**7/7 1pm-3pm**
+**6/27 1pm-3pm (Mark)**
+
+- [Recurrent Neural Networks](https://www.tensorflow.org/tutorials/recurrent)
+
+**7/7 1pm-3pm (Babak)**
+
+- [Vector Representation of Words](https://www.tensorflow.org/tutorials/word2vec) 
 
 **7/11 1pm-3pm**
 
