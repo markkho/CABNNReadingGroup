@@ -2,19 +2,21 @@
 
 CLPS Anything But Neural Networks Reading Group
 
+
+Schedule
+========
+
 Meeting Dates
 --------
 **6/6 2pm-4pm (Facilitated by Nick):**
 
-- Anaconda set up
-- Jupyter set up
-- TensorFlow set up
+- Anaconda, Jupyter, TensorFlow set up
 - TensorFlow tutorial
     - [Tensorflow MNIST tutorial](https://www.tensorflow.org/get_started/mnist/pros)
 
 Tentative Next Meeting Dates
 ---
-**RLDM (6/10-6/14)**
+**_RLDM (6/10-6/14)_**
 
 **6/20 1pm-3pm (Dan)**
 
@@ -34,7 +36,7 @@ Tentative Next Meeting Dates
 
 **7/21 1pm-3pm**
 
-**Cog Sci (7/25-7/30)**
+**_Cog Sci (7/25-7/30)_**
 
 **8/1 1pm-3pm**
 
@@ -45,3 +47,11 @@ Tentative Next Meeting Dates
 **8/22 1pm-3pm**
 
 **8/29 1pm-3pm**
+
+
+
+
+
+
+Reading List
+=====
