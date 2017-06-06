@@ -7,7 +7,7 @@ CLPS Anything But Neural Networks Reading Group
 Schedule
 ========
 
-Meeting Dates
+Previous Meetings
 --------
 **6/6 2pm-4pm (Facilitated by Nick):**
 
@@ -15,7 +15,12 @@ Meeting Dates
 - TensorFlow tutorial
     - [Tensorflow MNIST tutorial](https://www.tensorflow.org/get_started/mnist/pros)
 
-Tentative Next Meeting Dates
+Homework for 6/20:
+
+- Run through complete MNIST tutorial
+- Go through Convolutional Neural nets tutorial
+
+Next Meetings
 ---
 **_RLDM (6/10-6/14)_**
 
