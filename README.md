@@ -2,6 +2,7 @@
 
 CLPS Anything But Neural Networks Reading Group
 
+![Neural Nets aren't that great](https://imgs.xkcd.com/comics/machine_learning.png)
 
 Schedule
 ========
