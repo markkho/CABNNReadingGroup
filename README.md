@@ -2,35 +2,47 @@
 
 CLPS Anything But Neural Networks Reading Group
 
-Meeting Dates
+![Neural Nets aren't that great](https://imgs.xkcd.com/comics/machine_learning.png)
+
+Schedule
+========
+
+Previous Meetings
 --------
-**6/6 2pm-4pm:**
+**6/6 2pm-4pm (Facilitated by Nick):**
 
-- Anaconda set up
-- Jupyter set up
-- TensorFlow set up
-- TensorFlow tutorial
-    - [Tensorflow MNIST tutorial](https://www.tensorflow.org/get_started/mnist/pros)
+- Anaconda, Jupyter, TensorFlow set up
+- TensorFlow tutorial logistic regression
 
-Tentative Next Meeting Dates
+For 6/20:
+
+- Run through complete [Tensorflow MNIST tutorial](https://www.tensorflow.org/get_started/mnist/pros)
+- Go through [Convolutional Neural Nets](https://www.tensorflow.org/tutorials/deep_cnn)
+- Glance over [Deep Feedforward Networks](http://www.deeplearningbook.org/contents/mlp.html)
+
+Next Meetings
 ---
-RLDM
+**_RLDM (6/10-6/14)_**
 
-**6/20 1pm-3pm**
+**6/20 1pm-3pm (Dan)**
 
-**6/27 1pm-3pm**
+- [Convolutional Neural Nets](https://www.tensorflow.org/tutorials/deep_cnn)
 
-**7/7 1pm-3pm**
+**6/27 1pm-3pm (Mark)**
+
+- [Recurrent Neural Networks](https://www.tensorflow.org/tutorials/recurrent)
+
+**7/7 1pm-3pm (Babak)**
+
+- [Vector Representation of Words](https://www.tensorflow.org/tutorials/word2vec) 
 
 **7/11 1pm-3pm**
-
-???
 
 **7/18 1pm-3pm**
 
 **7/21 1pm-3pm**
 
-Cog Sci
+**_Cog Sci (7/25-7/30)_**
 
 **8/1 1pm-3pm**
 
@@ -41,3 +53,11 @@ Cog Sci
 **8/22 1pm-3pm**
 
 **8/29 1pm-3pm**
+
+
+
+
+
+
+Reading List
+=====
