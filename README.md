@@ -61,3 +61,6 @@ Next Meetings
 
 Reading List
 =====
+[On Unifying Deep Generative Models - Hu et al. 2017](https://arxiv.org/pdf/1706.00550.pdf)
+
+- Theoretical paper that links variational autoencoders and GANs
