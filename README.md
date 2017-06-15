@@ -70,3 +70,7 @@ Reading List
 [A Laplacian Framework for Option Discovery in Reinforcement Learning](https://arxiv.org/pdf/1703.00956.pdf)
 
 - Neat principled method for identifying options in an MDP (Mark)
+
+[The hippocampus as a predictive map](http://biorxiv.org/content/biorxiv/early/2016/12/28/097170.full.pdf)
+
+- Bio-companion to Laplacian framework option discovery paper (Nick)
