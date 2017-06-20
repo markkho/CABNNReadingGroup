@@ -17,22 +17,16 @@ Previous Meetings
 - TensorFlow tutorial logistic regression
 
 For 6/20:
-
+- [Convolutional Neural Nets](https://www.tensorflow.org/tutorials/deep_cnn)
 - Run through complete [Tensorflow MNIST tutorial](https://www.tensorflow.org/get_started/mnist/pros)
 - Go through [Convolutional Neural Nets](https://www.tensorflow.org/tutorials/deep_cnn)
 - Glance over [Deep Feedforward Networks](http://www.deeplearningbook.org/contents/mlp.html)
 
 Next Meetings
----
-**_RLDM (6/10-6/14)_**
-
-**6/20 1pm-3pm (Dan)**
-
-- [Convolutional Neural Nets](https://www.tensorflow.org/tutorials/deep_cnn)
-
 **6/27 1pm-3pm (Mark)**
-
 - [Recurrent Neural Networks](https://www.tensorflow.org/tutorials/recurrent)
+- [Recurrent Neural Network Chapter](http://www.deeplearningbook.org/contents/rnn.html)
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 **7/7 1pm-3pm (Babak)**
 
