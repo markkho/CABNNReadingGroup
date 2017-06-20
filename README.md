@@ -16,7 +16,7 @@ Previous Meetings
 - Anaconda, Jupyter, TensorFlow set up
 - TensorFlow tutorial logistic regression
 
-For 6/20:
+** 6/20 **
 - [Convolutional Neural Nets](https://www.tensorflow.org/tutorials/deep_cnn)
 - Run through complete [Tensorflow MNIST tutorial](https://www.tensorflow.org/get_started/mnist/pros)
 - Go through [Convolutional Neural Nets](https://www.tensorflow.org/tutorials/deep_cnn)
@@ -24,7 +24,7 @@ For 6/20:
 
 Next Meetings
 **6/27 1pm-3pm (Mark)**
-- [Recurrent Neural Networks](https://www.tensorflow.org/tutorials/recurrent)
+- [Recurrent Neural Networks Tutorial](https://www.tensorflow.org/tutorials/recurrent)
 - [Recurrent Neural Network Chapter](http://www.deeplearningbook.org/contents/rnn.html)
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
