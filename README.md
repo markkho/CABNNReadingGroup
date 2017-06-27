@@ -32,11 +32,13 @@ Next Meetings
 
 - [Vector Representation of Words](https://www.tensorflow.org/tutorials/word2vec) 
 
-**7/11 1pm-3pm**
+**7/11 1pm-3pm (Nick)**
+- [Binary Addition with LSTMs](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 
-**7/18 1pm-3pm**
+**7/18 1pm-3pm (Dan)**
+- [Deep Learning Ch 11: Practical Methodology](http://www.deeplearningbook.org/contents/guidelines.html)
 
-**7/21 1pm-3pm**
+**7/21 1pm-3pm (Mark)**
 
 **_Cog Sci (7/25-7/30)_**
 
