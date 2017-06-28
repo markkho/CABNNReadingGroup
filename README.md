@@ -71,3 +71,5 @@ Reading List
 [The hippocampus as a predictive map](http://biorxiv.org/content/biorxiv/early/2016/12/28/097170.full.pdf)
 
 - Bio-companion to Laplacian framework option discovery paper (Nick)
+
+[A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427)
