@@ -32,6 +32,7 @@ Next Meetings
 
 - [Vector Representation of Words](https://www.tensorflow.org/tutorials/word2vec) 
 - [Topics in Semantic Representation](https://www.cs.colorado.edu/~mozer/Teaching/syllabi/ProbabilisticModels2015/readings/GriffithsSteyversTenenbaum2007.pdf)
+- [Quantum Models of Semantic Space (Chapter 7 or Pothos and Busemeyer (2012)]
 
 **7/11 1pm-3pm (Nick)**
 - [Binary Addition with LSTMs](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
