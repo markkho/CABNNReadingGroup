@@ -35,12 +35,12 @@ Next Meetings
 - [Quantum Models of Semantic Space (Chapter 7 or Pothos and Busemeyer (2012)]
 
 **7/11 1pm-3pm (Nick)**
-- [Binary Addition with LSTMs](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 
 **7/18 1pm-3pm (Dan)**
 - [Deep Learning Ch 11: Practical Methodology](http://www.deeplearningbook.org/contents/guidelines.html)
 
-**7/21 1pm-3pm (Mark)**
+**7/19 5pm-7pm (Mark)**
+- [Binary Addition with LSTMs](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 
 **_Cog Sci (7/25-7/30)_**
 
