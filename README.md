@@ -11,7 +11,7 @@ Schedule
 
 Next Meeting
 --------
-**10/3 11a-12a (Dan):**
+**10/10 11a-12a (Dan):**
 - [Deep Learning Ch 13: Linear Factor Models](http://www.deeplearningbook.org/contents/linear_factors.html)
 
 Previous Meetings
