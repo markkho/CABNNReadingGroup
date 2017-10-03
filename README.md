@@ -64,3 +64,6 @@ Other Interesting Readings
 
 [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/RW.pdf)
 - Rasmussen and Williams book on GPs
+
+[Bayesian Learning for Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf)
+- Radford Neal's PhD thesis... with 3k citations...
