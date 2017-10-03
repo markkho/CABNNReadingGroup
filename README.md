@@ -58,3 +58,9 @@ Other Interesting Readings
 - Bio-companion to Laplacian framework option discovery paper (Nick)
 
 [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427)
+
+[Scaleable and flexible models of uncertainty (Toronto Course)](https://csc2541-f17.github.io/)
+- A University of Toronto course primarily concerned with gaussian processes, variational inference, and RL
+
+[Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/RW.pdf)
+- Rasmussen and Williams book on GPs
