@@ -44,6 +44,10 @@ Previous Meetings
 
 Other Interesting Readings
 =====
+[CSC2541: Scalable and Flexible Models of Uncertainty](https://csc2541-f17.github.io/#/contents/01-info)
+
+[Exploration and generalization in vast spaces](https://ericschulz.github.io/publications/Wu2017generalization.pdf)
+
 [On Unifying Deep Generative Models - Hu et al. 2017](https://arxiv.org/pdf/1706.00550.pdf)
 - Theoretical paper that links variational autoencoders and GANs (Mark)
 
