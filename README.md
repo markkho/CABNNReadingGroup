@@ -11,11 +11,14 @@ Schedule
 
 Next Meeting
 --------
-**10/10 11a-12a (Dan):**
-- [Deep Learning Ch 13: Linear Factor Models](http://www.deeplearningbook.org/contents/linear_factors.html)
+**10/24 11a-12a (?):**
+- [Deep Learning Ch 14: Autoencoders](http://www.deeplearningbook.org/contents/autoencoders.html)
 
 Previous Meetings
 --------
+**10/10 11a-12a (Dan):**
+- [Deep Learning Ch 13: Linear Factor Models](http://www.deeplearningbook.org/contents/linear_factors.html)
+
 **7/19 5pm-7pm (Mark):**
 - [Binary Addition with LSTMs](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 
