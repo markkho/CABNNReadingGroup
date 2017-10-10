@@ -29,14 +29,14 @@ Previous Meetings
 
 **6/27 1pm-3pm (Mark):**
 - [Recurrent Neural Networks Tutorial](https://www.tensorflow.org/tutorials/recurrent)
-- [Recurrent Neural Network Chapter](http://www.deeplearningbook.org/contents/rnn.html)
+- [Deep Learning Ch 10: Recurrent Neural Networks](http://www.deeplearningbook.org/contents/rnn.html)
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 **6/20 (Group):**
 - [Convolutional Neural Nets](https://www.tensorflow.org/tutorials/deep_cnn)
 - Run through complete [Tensorflow MNIST tutorial](https://www.tensorflow.org/get_started/mnist/pros)
 - Go through [Convolutional Neural Nets](https://www.tensorflow.org/tutorials/deep_cnn)
-- Glance over [Deep Feedforward Networks](http://www.deeplearningbook.org/contents/mlp.html)
+- Glance over [Deep Learning Ch 6: Deep Feedforward Networks](http://www.deeplearningbook.org/contents/mlp.html)
 
 **6/6 2pm-4pm (Nick):**
 - Anaconda, Jupyter, TensorFlow set up
